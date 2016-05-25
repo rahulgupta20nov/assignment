@@ -142,7 +142,34 @@ thead tr {
     color: #fff;
 }
 
-.base-box{
+.base-box {
     background-color: #f2f3f5;
-    height: 200px;
+    height: 465px;
+    padding-top: 100px;
+}
+
+.inner-box {
+    background-color: #fff;
+    height: 250px;
+    width: 60%;
+    margin-left: 165px;
+    padding-top: 80px;
+}
+
+.top-content {
+    color: #446a7f;
+    font-size: 20px;
+    margin-left: 64px;
+}
+
+.bottom-content {
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 130px;
+    margin: auto;
+    color: #9f9f9f;
+}
+
+.inner-box input[type="button"] {
+    margin-left: 212px;
 }
