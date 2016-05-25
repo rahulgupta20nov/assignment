@@ -141,3 +141,8 @@ thead tr {
 .menubar .sub-menu li a {
     color: #fff;
 }
+
+.base-box{
+    background-color: #f2f3f5;
+    height: 200px;
+}
